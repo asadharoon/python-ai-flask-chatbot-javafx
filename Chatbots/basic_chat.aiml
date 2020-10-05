@@ -1,0 +1,212 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<category>
+<pattern>AN OLD WOMAN WANTED TO CROSS A ROAD</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAS WEAK</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEREFORE SHE WANTED HELP</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAITED LONG</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAITED ALONE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE SAW A LARGE NUMBER OF SCHOOL BOYS</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WERE LAUGHING AND TALKING</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WERE GOING HOME</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SO THEY WERE HAPPY</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY LOOKED AT THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY DID NOT HELP HER</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WALKED ON</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>BUT ONE BOY WENT TO THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE SAID TO HER MOTHER DO YOU WANT TO CROSS THE ROAD I WILL HELP YOU I WILL TAKE YOU TO THE OTHER SIDE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THE BOY HELPED THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE LED HER ACROSS THE ROAD</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE DID A GOOD DEED</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE WAS HAPPY</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE SAID I HELPED SOMEBODY MOTHER SO SOMEBODY WILL HELP MY MOTHER IN HER OLD AGE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>DEAR GOD BE KIND TO THIS GOOD BOY SAID THE OLD WOMAN IN HER PRAYER</pattern>
+<template>Hmm! Next</template>
+</category>
+
+<category>
+<pattern>HELLO I AM *</pattern>
+<template>Hi! Nice to meet you <star/></template>
+</category>
+
+<category>
+<pattern>DO YOU WANT TO LISTEN STORY</pattern>
+<template>Yes Why not</template>
+</category>
+
+<category>
+<pattern>TODAY I WILL TEACH YOU SOME LESSON FROM STORY</pattern>
+<template>Ok please start the story</template>
+</category>
+
+<category>
+<pattern>MORAL IS IF YOU HELP SOME OLD AGE PEOPLES THEN GOD WILL HELP YOU WHEN YOU NEED HELP</pattern>
+<template>Wow Good Mom I love you</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>I did not understand</template>
+</category>
+</aiml><category>
+<pattern>AN OLD WOMAN WANTED TO CROSS A ROAD</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAS WEAK</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEREFORE SHE WANTED HELP</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAITED LONG</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE WAITED ALONE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SHE SAW A LARGE NUMBER OF SCHOOL BOYS</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WERE LAUGHING AND TALKING</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WERE GOING HOME</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>SO THEY WERE HAPPY</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY LOOKED AT THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY DID NOT HELP HER</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THEY WALKED ON</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>BUT ONE BOY WENT TO THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE SAID TO HER MOTHER DO YOU WANT TO CROSS THE ROAD I WILL HELP YOU I WILL TAKE YOU TO THE OTHER SIDE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>THE BOY HELPED THE OLD WOMAN</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE LED HER ACROSS THE ROAD</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE DID A GOOD DEED</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE WAS HAPPY</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>HE SAID I HELPED SOMEBODY MOTHER SO SOMEBODY WILL HELP MY MOTHER IN HER OLD AGE</pattern>
+<template>Hmm! Next</template>
+</category>
+<category>
+<pattern>DEAR GOD BE KIND TO THIS GOOD BOY SAID THE OLD WOMAN IN HER PRAYER</pattern>
+<template>Hmm! Next</template>
+</category>
+
+<category>
+<pattern>HELLO I AM *</pattern>
+<template>Hi! Nice to meet you <star/></template>
+</category>
+
+<category>
+<pattern>DO YOU WANT TO LISTEN STORY</pattern>
+<template>Yes Why not</template>
+</category>
+
+<category>
+<pattern>TODAY I WILL TEACH YOU SOME LESSON FROM STORY</pattern>
+<template>Ok please start the story</template>
+</category>
+
+<category>
+<pattern>MORAL IS IF YOU HELP SOME OLD AGE PEOPLES THEN GOD WILL HELP YOU WHEN YOU NEED HELP</pattern>
+<template>Wow Good Mom I love you</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>I did not understand</template>
+</category>
+</aiml>
